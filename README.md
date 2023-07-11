@@ -4,8 +4,7 @@ CNN to classify ultrasounds of cancerous and non cancerous cells
 
 ## Topic
 Topic
-In this notebook I will be dealing with ultrasound pictures classification. The task is to be able to tell from a scan pictures whether or 
-not a tumor is benign or cancerous. I will be using a convolutional network to classify the images and will try to achieve an accuracy 
+In this notebook I will be dealing with ultrasound pictures classification. The task is to be able to tell from  scan pictures whether a tumor is benign or cancerous. I will be using a convolutional network to classify the images and will try to achieve an accuracy 
 above 80%. 
 
 ## Objective
