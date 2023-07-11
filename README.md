@@ -30,5 +30,10 @@ above 80%.
 - CV2
 - Glob
 
+## Evaluation metrics
+- Confusion matrix
+- Classification report
+- Accuracy
+
 ## Data source
 https://www.kaggle.com/datasets/vuppalaadithyasairam/ultrasound-breast-images-for-breast-cancer?fbclid=IwAR20PikUw-IiuE0hNEi3i_h79qaTtSfmqq-nJhVh_9L1op_DSO8BXuRfMpI
